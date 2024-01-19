@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : [Paste here your MongoDB Link]
+      database : EventDB
